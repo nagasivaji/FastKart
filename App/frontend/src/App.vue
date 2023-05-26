@@ -1,8 +1,15 @@
 <template>
-  <div>
-    <a-button type="primary">Primary Button</a-button>
+  <div class="App">
+    <NavBar></NavBar>
   </div>
 </template>
+<script>
+import NavBar from '@/components/Headers/NavBar'
+export default {
+  name: 'App',
+  components: {
+    NavBar
+  }
+}
+</script>
 
-<style>
-</style>
