@@ -1,0 +1,712 @@
+Uri: https://cdn.linearicons.com/free/1.0.0/icon-font.min.css
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\free\1.0.0\icon-font.min.css
+Content Type: text/css
+
+Uri: https://cdn.linearicons.com/free/1.0.0/Linearicons-Free.eot
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\free\1.0.0\Linearicons-Free.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cdn.linearicons.com/free/1.0.0/Linearicons-Free.eot?
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\free\1.0.0\Linearicons-Free-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cdn.linearicons.com/free/1.0.0/Linearicons-Free.svg
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\free\1.0.0\Linearicons-Free.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.linearicons.com/free/1.0.0/Linearicons-Free.ttf
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\free\1.0.0\Linearicons-Free.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://cdn.linearicons.com/free/1.0.0/Linearicons-Free.woff
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\free\1.0.0\Linearicons-Free.woff
+Content Type: application/font-woff
+
+Uri: https://cdn.linearicons.com/free/1.0.0/Linearicons-Free.woff2
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\free\1.0.0\Linearicons-Free.woff2
+Content Type: application/font-woff2
+
+Uri: https://fonts.googleapis.com/css2?family=Public+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/publicsans/v14/ijwAs572Xtc6ZYQws9YVwnNDZpDyNjGolS673toPgAct.ttf
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\s\publicsans\v14\ijwAs572Xtc6ZYQws9YVwnNDZpDyNjGolS673toPgAct.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/publicsans/v14/ijwAs572Xtc6ZYQws9YVwnNDZpDyNjGolS673tpjgAct.ttf
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\s\publicsans\v14\ijwAs572Xtc6ZYQws9YVwnNDZpDyNjGolS673tpjgAct.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/publicsans/v14/ijwAs572Xtc6ZYQws9YVwnNDZpDyNjGolS673tpRgAct.ttf
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\s\publicsans\v14\ijwAs572Xtc6ZYQws9YVwnNDZpDyNjGolS673tpRgAct.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/publicsans/v14/ijwAs572Xtc6ZYQws9YVwnNDZpDyNjGolS673tpRgQct.ttf
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\s\publicsans\v14\ijwAs572Xtc6ZYQws9YVwnNDZpDyNjGolS673tpRgQct.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/publicsans/v14/ijwAs572Xtc6ZYQws9YVwnNDZpDyNjGolS673tq2hwct.ttf
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\s\publicsans\v14\ijwAs572Xtc6ZYQws9YVwnNDZpDyNjGolS673tq2hwct.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/publicsans/v14/ijwAs572Xtc6ZYQws9YVwnNDZpDyNjGolS673tqPhwct.ttf
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\s\publicsans\v14\ijwAs572Xtc6ZYQws9YVwnNDZpDyNjGolS673tqPhwct.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/publicsans/v14/ijwAs572Xtc6ZYQws9YVwnNDZpDyNjGolS673tr4hwct.ttf
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\s\publicsans\v14\ijwAs572Xtc6ZYQws9YVwnNDZpDyNjGolS673tr4hwct.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/publicsans/v14/ijwAs572Xtc6ZYQws9YVwnNDZpDyNjGolS673trRgAct.ttf
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\s\publicsans\v14\ijwAs572Xtc6ZYQws9YVwnNDZpDyNjGolS673trRgAct.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/publicsans/v14/ijwAs572Xtc6ZYQws9YVwnNDZpDyNjGolS673trRhwct.ttf
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\s\publicsans\v14\ijwAs572Xtc6ZYQws9YVwnNDZpDyNjGolS673trRhwct.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/publicsans/v14/ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymu8Z65ww.ttf
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\s\publicsans\v14\ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymu8Z65ww.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/publicsans/v14/ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymuFpi5ww.ttf
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\s\publicsans\v14\ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymuFpi5ww.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/publicsans/v14/ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymuFpm5ww.ttf
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\s\publicsans\v14\ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymuFpm5ww.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/publicsans/v14/ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymuJJm5ww.ttf
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\s\publicsans\v14\ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymuJJm5ww.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/publicsans/v14/ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymulp65ww.ttf
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\s\publicsans\v14\ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymulp65ww.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/publicsans/v14/ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymulpm5ww.ttf
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\s\publicsans\v14\ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymulpm5ww.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/publicsans/v14/ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymuSJm5ww.ttf
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\s\publicsans\v14\ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymuSJm5ww.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/publicsans/v14/ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymuv565ww.ttf
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\s\publicsans\v14\ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymuv565ww.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/publicsans/v14/ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymuyJ65ww.ttf
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\s\publicsans\v14\ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymuyJ65ww.ttf
+Content Type: font/ttf
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/svg/1/biscuit.svg
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\fastkart\assets\svg\1\biscuit.svg
+Content Type: image/svg+xml
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/svg/1/breakfast.svg
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\fastkart\assets\svg\1\breakfast.svg
+Content Type: image/svg+xml
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/svg/1/cup.svg
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\fastkart\assets\svg\1\cup.svg
+Content Type: image/svg+xml
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/svg/1/drink.svg
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\fastkart\assets\svg\1\drink.svg
+Content Type: image/svg+xml
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/svg/1/frozen.svg
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\fastkart\assets\svg\1\frozen.svg
+Content Type: image/svg+xml
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/svg/1/grocery.svg
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\fastkart\assets\svg\1\grocery.svg
+Content Type: image/svg+xml
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/svg/1/meats.svg
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\fastkart\assets\svg\1\meats.svg
+Content Type: image/svg+xml
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/svg/1/milk.svg
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\fastkart\assets\svg\1\milk.svg
+Content Type: image/svg+xml
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/svg/1/pet.svg
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\fastkart\assets\svg\1\pet.svg
+Content Type: image/svg+xml
+
+Uri: https://themes.pixelstrap.com/fastkart/assets/svg/1/vegetable.svg
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\fastkart\assets\svg\1\vegetable.svg
+Content Type: image/svg+xml
+
+Uri: https://themes.pixelstrap.com/fastkart/back-end/add-new-attributes.html
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\fastkart\back-end\add-new-attributes.html
+Content Type: text/html
+
+Uri: https://themes.pixelstrap.com/fastkart/back-end/add-new-category.html
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\fastkart\back-end\add-new-category.html
+Content Type: text/html
+
+Uri: https://themes.pixelstrap.com/fastkart/back-end/add-new-product.html
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\fastkart\back-end\add-new-product.html
+Content Type: text/html
+
+Uri: https://themes.pixelstrap.com/fastkart/back-end/add-new-user.html
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\fastkart\back-end\add-new-user.html
+Content Type: text/html
+
+Uri: https://themes.pixelstrap.com/fastkart/back-end/all-users.html
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\fastkart\back-end\all-users.html
+Content Type: text/html
+
+Uri: https://themes.pixelstrap.com/fastkart/back-end/assets/css/datatables.css
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\fastkart\back-end\assets\css\datatables.css
+Content Type: text/css
+
+Uri: https://themes.pixelstrap.com/fastkart/back-end/assets/css/linearicon.css
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\fastkart\back-end\assets\css\linearicon.css
+Content Type: text/css
+
+Uri: https://themes.pixelstrap.com/fastkart/back-end/assets/css/ratio.css
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\fastkart\back-end\assets\css\ratio.css
+Content Type: text/css
+
+Uri: https://themes.pixelstrap.com/fastkart/back-end/assets/css/remixicon.css
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\fastkart\back-end\assets\css\remixicon.css
+Content Type: text/css
+
+Uri: https://themes.pixelstrap.com/fastkart/back-end/assets/css/select2.min.css
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\fastkart\back-end\assets\css\select2.min.css
+Content Type: text/css
+
+Uri: https://themes.pixelstrap.com/fastkart/back-end/assets/css/style.css
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\fastkart\back-end\assets\css\style.css
+Content Type: text/css
+
+Uri: https://themes.pixelstrap.com/fastkart/back-end/assets/css/vector-map.css
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\fastkart\back-end\assets\css\vector-map.css
+Content Type: text/css
+
+Uri: https://themes.pixelstrap.com/fastkart/back-end/assets/css/vendors/animate.css
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\fastkart\back-end\assets\css\vendors\animate.css
+Content Type: text/css
+
+Uri: https://themes.pixelstrap.com/fastkart/back-end/assets/css/vendors/bootstrap-tagsinput.css
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\fastkart\back-end\assets\css\vendors\bootstrap-tagsinput.css
+Content Type: text/css
+
+Uri: https://themes.pixelstrap.com/fastkart/back-end/assets/css/vendors/bootstrap.css
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\fastkart\back-end\assets\css\vendors\bootstrap.css
+Content Type: text/css
+
+Uri: https://themes.pixelstrap.com/fastkart/back-end/assets/css/vendors/chartist.css
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\fastkart\back-end\assets\css\vendors\chartist.css
+Content Type: text/css
+
+Uri: https://themes.pixelstrap.com/fastkart/back-end/assets/css/vendors/date-picker.css
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\fastkart\back-end\assets\css\vendors\date-picker.css
+Content Type: text/css
+
+Uri: https://themes.pixelstrap.com/fastkart/back-end/assets/css/vendors/dropzone.css
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\fastkart\back-end\assets\css\vendors\dropzone.css
+Content Type: text/css
+
+Uri: https://themes.pixelstrap.com/fastkart/back-end/assets/css/vendors/feather-icon.css
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\fastkart\back-end\assets\css\vendors\feather-icon.css
+Content Type: text/css
+
+Uri: https://themes.pixelstrap.com/fastkart/back-end/assets/css/vendors/font-awesome.css
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\fastkart\back-end\assets\css\vendors\font-awesome.css
+Content Type: text/css
+
+Uri: https://themes.pixelstrap.com/fastkart/back-end/assets/css/vendors/scrollbar.css
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\fastkart\back-end\assets\css\vendors\scrollbar.css
+Content Type: text/css
+
+Uri: https://themes.pixelstrap.com/fastkart/back-end/assets/css/vendors/slick.css
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\fastkart\back-end\assets\css\vendors\slick.css
+Content Type: text/css
+
+Uri: https://themes.pixelstrap.com/fastkart/back-end/assets/css/vendors/themify.css
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\fastkart\back-end\assets\css\vendors\themify.css
+Content Type: text/css
+
+Uri: https://themes.pixelstrap.com/fastkart/back-end/assets/fonts/fa-brands-400.eot
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\fastkart\back-end\assets\fonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://themes.pixelstrap.com/fastkart/back-end/assets/fonts/fa-brands-400.eot?
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\fastkart\back-end\assets\fonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://themes.pixelstrap.com/fastkart/back-end/assets/fonts/fa-brands-400.svg
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\fastkart\back-end\assets\fonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://themes.pixelstrap.com/fastkart/back-end/assets/fonts/fa-brands-400.ttf
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\fastkart\back-end\assets\fonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://themes.pixelstrap.com/fastkart/back-end/assets/fonts/fa-brands-400.woff
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\fastkart\back-end\assets\fonts\fa-brands-400.woff
+Content Type: font/woff
+
+Uri: https://themes.pixelstrap.com/fastkart/back-end/assets/fonts/fa-brands-400.woff2
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\fastkart\back-end\assets\fonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://themes.pixelstrap.com/fastkart/back-end/assets/fonts/fa-regular-400.eot
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\fastkart\back-end\assets\fonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://themes.pixelstrap.com/fastkart/back-end/assets/fonts/fa-regular-400.eot?
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\fastkart\back-end\assets\fonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://themes.pixelstrap.com/fastkart/back-end/assets/fonts/fa-regular-400.svg
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\fastkart\back-end\assets\fonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://themes.pixelstrap.com/fastkart/back-end/assets/fonts/fa-regular-400.ttf
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\fastkart\back-end\assets\fonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://themes.pixelstrap.com/fastkart/back-end/assets/fonts/fa-regular-400.woff
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\fastkart\back-end\assets\fonts\fa-regular-400.woff
+Content Type: font/woff
+
+Uri: https://themes.pixelstrap.com/fastkart/back-end/assets/fonts/fa-regular-400.woff2
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\fastkart\back-end\assets\fonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://themes.pixelstrap.com/fastkart/back-end/assets/fonts/fa-solid-900.eot
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\fastkart\back-end\assets\fonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://themes.pixelstrap.com/fastkart/back-end/assets/fonts/fa-solid-900.eot?
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\fastkart\back-end\assets\fonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://themes.pixelstrap.com/fastkart/back-end/assets/fonts/fa-solid-900.svg
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\fastkart\back-end\assets\fonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://themes.pixelstrap.com/fastkart/back-end/assets/fonts/fa-solid-900.ttf
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\fastkart\back-end\assets\fonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://themes.pixelstrap.com/fastkart/back-end/assets/fonts/fa-solid-900.woff
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\fastkart\back-end\assets\fonts\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: https://themes.pixelstrap.com/fastkart/back-end/assets/fonts/fa-solid-900.woff2
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\fastkart\back-end\assets\fonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://themes.pixelstrap.com/fastkart/back-end/assets/fonts/remixicon.eot?t=1590207869815
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\fastkart\back-end\assets\fonts\remixicon.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://themes.pixelstrap.com/fastkart/back-end/assets/fonts/remixicon.svg?t=1590207869815
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\fastkart\back-end\assets\fonts\remixicon.svg
+Content Type: image/svg+xml
+
+Uri: https://themes.pixelstrap.com/fastkart/back-end/assets/fonts/remixicon.ttf?t=1590207869815
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\fastkart\back-end\assets\fonts\remixicon.ttf
+Content Type: font/ttf
+
+Uri: https://themes.pixelstrap.com/fastkart/back-end/assets/fonts/remixicon.woff2?t=1590207869815
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\fastkart\back-end\assets\fonts\remixicon.woff2
+Content Type: font/woff2
+
+Uri: https://themes.pixelstrap.com/fastkart/back-end/assets/fonts/remixicon.woff?t=1590207869815
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\fastkart\back-end\assets\fonts\remixicon.woff
+Content Type: font/woff
+
+Uri: https://themes.pixelstrap.com/fastkart/back-end/assets/fonts/themify/themify.eot?
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\fastkart\back-end\assets\fonts\themify\themify-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://themes.pixelstrap.com/fastkart/back-end/assets/fonts/themify/themify.eot?-fvbane
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\fastkart\back-end\assets\fonts\themify\themify.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://themes.pixelstrap.com/fastkart/back-end/assets/fonts/themify/themify.svg?-fvbane
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\fastkart\back-end\assets\fonts\themify\themify.svg
+Content Type: image/svg+xml
+
+Uri: https://themes.pixelstrap.com/fastkart/back-end/assets/fonts/themify/themify.ttf?-fvbane
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\fastkart\back-end\assets\fonts\themify\themify.ttf
+Content Type: font/ttf
+
+Uri: https://themes.pixelstrap.com/fastkart/back-end/assets/fonts/themify/themify.woff?-fvbane
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\fastkart\back-end\assets\fonts\themify\themify.woff
+Content Type: font/woff
+
+Uri: https://themes.pixelstrap.com/fastkart/back-end/assets/images/ajax-loader.gif
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\fastkart\back-end\assets\images\ajax-loader.gif
+Content Type: image/gif
+
+Uri: https://themes.pixelstrap.com/fastkart/back-end/assets/images/bg.png
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\fastkart\back-end\assets\images\bg.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/back-end/assets/images/favicon.png
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\fastkart\back-end\assets\images\favicon.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/back-end/assets/images/logo/1-white.png
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\fastkart\back-end\assets\images\logo\1-white.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/back-end/assets/images/logo/1.png
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\fastkart\back-end\assets\images\logo\1.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/back-end/assets/images/logo/full-white.png
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\fastkart\back-end\assets\images\logo\full-white.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/back-end/assets/images/logo/logo-white.png
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\fastkart\back-end\assets\images\logo\logo-white.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/back-end/assets/images/logo/logo.png
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\fastkart\back-end\assets\images\logo\logo.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/back-end/assets/images/product/1.png
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\fastkart\back-end\assets\images\product\1.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/back-end/assets/images/product/10.png
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\fastkart\back-end\assets\images\product\10.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/back-end/assets/images/product/11.png
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\fastkart\back-end\assets\images\product\11.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/back-end/assets/images/product/13.png
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\fastkart\back-end\assets\images\product\13.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/back-end/assets/images/product/14.png
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\fastkart\back-end\assets\images\product\14.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/back-end/assets/images/product/16.png
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\fastkart\back-end\assets\images\product\16.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/back-end/assets/images/product/2.png
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\fastkart\back-end\assets\images\product\2.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/back-end/assets/images/product/20.png
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\fastkart\back-end\assets\images\product\20.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/back-end/assets/images/product/3.png
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\fastkart\back-end\assets\images\product\3.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/back-end/assets/images/product/4.png
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\fastkart\back-end\assets\images\product\4.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/back-end/assets/images/product/5.png
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\fastkart\back-end\assets\images\product\5.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/back-end/assets/images/product/6.png
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\fastkart\back-end\assets\images\product\6.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/back-end/assets/images/product/7.png
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\fastkart\back-end\assets\images\product\7.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/back-end/assets/images/product/8.png
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\fastkart\back-end\assets\images\product\8.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/back-end/assets/images/product/9.png
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\fastkart\back-end\assets\images\product\9.png
+Content Type: image/png
+
+Uri: https://themes.pixelstrap.com/fastkart/back-end/assets/images/profile/1.jpg
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\fastkart\back-end\assets\images\profile\1.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.pixelstrap.com/fastkart/back-end/assets/images/profile/2.jpg
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\fastkart\back-end\assets\images\profile\2.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.pixelstrap.com/fastkart/back-end/assets/images/profile/3.jpg
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\fastkart\back-end\assets\images\profile\3.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.pixelstrap.com/fastkart/back-end/assets/images/users/1.jpg
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\fastkart\back-end\assets\images\users\1.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.pixelstrap.com/fastkart/back-end/assets/images/users/2.jpg
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\fastkart\back-end\assets\images\users\2.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.pixelstrap.com/fastkart/back-end/assets/images/users/3.jpg
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\fastkart\back-end\assets\images\users\3.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.pixelstrap.com/fastkart/back-end/assets/images/users/4.jpg
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\fastkart\back-end\assets\images\users\4.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.pixelstrap.com/fastkart/back-end/assets/images/users/5.jpg
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\fastkart\back-end\assets\images\users\5.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.pixelstrap.com/fastkart/back-end/assets/js/bootstrap-tagsinput.min.js
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\fastkart\back-end\assets\js\bootstrap-tagsinput.min.js
+Content Type: application/javascript
+
+Uri: https://themes.pixelstrap.com/fastkart/back-end/assets/js/bootstrap/bootstrap.bundle.min.js
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\fastkart\back-end\assets\js\bootstrap\bootstrap.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://themes.pixelstrap.com/fastkart/back-end/assets/js/chart/apex-chart/apex-chart.js
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\fastkart\back-end\assets\js\chart\apex-chart\apex-chart.js
+Content Type: application/javascript
+
+Uri: https://themes.pixelstrap.com/fastkart/back-end/assets/js/chart/apex-chart/apex-chart1.js
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\fastkart\back-end\assets\js\chart\apex-chart\apex-chart1.js
+Content Type: application/javascript
+
+Uri: https://themes.pixelstrap.com/fastkart/back-end/assets/js/chart/apex-chart/chart-custom.js
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\fastkart\back-end\assets\js\chart\apex-chart\chart-custom.js
+Content Type: application/javascript
+
+Uri: https://themes.pixelstrap.com/fastkart/back-end/assets/js/chart/apex-chart/chart-custom1.js
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\fastkart\back-end\assets\js\chart\apex-chart\chart-custom1.js
+Content Type: application/javascript
+
+Uri: https://themes.pixelstrap.com/fastkart/back-end/assets/js/chart/apex-chart/moment.min.js
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\fastkart\back-end\assets\js\chart\apex-chart\moment.min.js
+Content Type: application/javascript
+
+Uri: https://themes.pixelstrap.com/fastkart/back-end/assets/js/chart/apex-chart/stock-prices.js
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\fastkart\back-end\assets\js\chart\apex-chart\stock-prices.js
+Content Type: application/javascript
+
+Uri: https://themes.pixelstrap.com/fastkart/back-end/assets/js/checkbox-all-check.js
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\fastkart\back-end\assets\js\checkbox-all-check.js
+Content Type: application/javascript
+
+Uri: https://themes.pixelstrap.com/fastkart/back-end/assets/js/ckeditor-custom.js
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\fastkart\back-end\assets\js\ckeditor-custom.js
+Content Type: application/javascript
+
+Uri: https://themes.pixelstrap.com/fastkart/back-end/assets/js/ckeditor.js
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\fastkart\back-end\assets\js\ckeditor.js
+Content Type: application/javascript
+
+Uri: https://themes.pixelstrap.com/fastkart/back-end/assets/js/config.js
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\fastkart\back-end\assets\js\config.js
+Content Type: application/javascript
+
+Uri: https://themes.pixelstrap.com/fastkart/back-end/assets/js/custom-data-table.js
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\fastkart\back-end\assets\js\custom-data-table.js
+Content Type: application/javascript
+
+Uri: https://themes.pixelstrap.com/fastkart/back-end/assets/js/custom-slick.js
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\fastkart\back-end\assets\js\custom-slick.js
+Content Type: application/javascript
+
+Uri: https://themes.pixelstrap.com/fastkart/back-end/assets/js/customizer.js
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\fastkart\back-end\assets\js\customizer.js
+Content Type: application/javascript
+
+Uri: https://themes.pixelstrap.com/fastkart/back-end/assets/js/dropzone/dropzone-script.js
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\fastkart\back-end\assets\js\dropzone\dropzone-script.js
+Content Type: application/javascript
+
+Uri: https://themes.pixelstrap.com/fastkart/back-end/assets/js/dropzone/dropzone.js
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\fastkart\back-end\assets\js\dropzone\dropzone.js
+Content Type: application/javascript
+
+Uri: https://themes.pixelstrap.com/fastkart/back-end/assets/js/icons/feather-icon/feather-icon.js
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\fastkart\back-end\assets\js\icons\feather-icon\feather-icon.js
+Content Type: application/javascript
+
+Uri: https://themes.pixelstrap.com/fastkart/back-end/assets/js/icons/feather-icon/feather.min.js
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\fastkart\back-end\assets\js\icons\feather-icon\feather.min.js
+Content Type: application/javascript
+
+Uri: https://themes.pixelstrap.com/fastkart/back-end/assets/js/jquery-3.6.0.min.js
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\fastkart\back-end\assets\js\jquery-3.6.0.min.js
+Content Type: application/javascript
+
+Uri: https://themes.pixelstrap.com/fastkart/back-end/assets/js/jquery.dataTables.js
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\fastkart\back-end\assets\js\jquery.dataTables.js
+Content Type: application/javascript
+
+Uri: https://themes.pixelstrap.com/fastkart/back-end/assets/js/notify/bootstrap-notify.min.js
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\fastkart\back-end\assets\js\notify\bootstrap-notify.min.js
+Content Type: application/javascript
+
+Uri: https://themes.pixelstrap.com/fastkart/back-end/assets/js/notify/index.js
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\fastkart\back-end\assets\js\notify\index.js
+Content Type: application/javascript
+
+Uri: https://themes.pixelstrap.com/fastkart/back-end/assets/js/ratio.js
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\fastkart\back-end\assets\js\ratio.js
+Content Type: application/javascript
+
+Uri: https://themes.pixelstrap.com/fastkart/back-end/assets/js/script.js
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\fastkart\back-end\assets\js\script.js
+Content Type: application/javascript
+
+Uri: https://themes.pixelstrap.com/fastkart/back-end/assets/js/scrollbar/custom.js
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\fastkart\back-end\assets\js\scrollbar\custom.js
+Content Type: application/javascript
+
+Uri: https://themes.pixelstrap.com/fastkart/back-end/assets/js/scrollbar/simplebar.js
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\fastkart\back-end\assets\js\scrollbar\simplebar.js
+Content Type: application/javascript
+
+Uri: https://themes.pixelstrap.com/fastkart/back-end/assets/js/select2-custom.js
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\fastkart\back-end\assets\js\select2-custom.js
+Content Type: application/javascript
+
+Uri: https://themes.pixelstrap.com/fastkart/back-end/assets/js/select2.min.js
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\fastkart\back-end\assets\js\select2.min.js
+Content Type: application/javascript
+
+Uri: https://themes.pixelstrap.com/fastkart/back-end/assets/js/sidebar-menu.js
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\fastkart\back-end\assets\js\sidebar-menu.js
+Content Type: application/javascript
+
+Uri: https://themes.pixelstrap.com/fastkart/back-end/assets/js/sidebareffect.js
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\fastkart\back-end\assets\js\sidebareffect.js
+Content Type: application/javascript
+
+Uri: https://themes.pixelstrap.com/fastkart/back-end/assets/js/slick.min.js
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\fastkart\back-end\assets\js\slick.min.js
+Content Type: application/javascript
+
+Uri: https://themes.pixelstrap.com/fastkart/back-end/assets/js/tooltip-init.js
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\fastkart\back-end\assets\js\tooltip-init.js
+Content Type: application/javascript
+
+Uri: https://themes.pixelstrap.com/fastkart/back-end/assets/svg/breakfast.svg
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\fastkart\back-end\assets\svg\breakfast.svg
+Content Type: image/svg+xml
+
+Uri: https://themes.pixelstrap.com/fastkart/back-end/assets/svg/cup.svg
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\fastkart\back-end\assets\svg\cup.svg
+Content Type: image/svg+xml
+
+Uri: https://themes.pixelstrap.com/fastkart/back-end/assets/svg/frozen.svg
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\fastkart\back-end\assets\svg\frozen.svg
+Content Type: image/svg+xml
+
+Uri: https://themes.pixelstrap.com/fastkart/back-end/assets/svg/meats.svg
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\fastkart\back-end\assets\svg\meats.svg
+Content Type: image/svg+xml
+
+Uri: https://themes.pixelstrap.com/fastkart/back-end/assets/svg/milk.svg
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\fastkart\back-end\assets\svg\milk.svg
+Content Type: image/svg+xml
+
+Uri: https://themes.pixelstrap.com/fastkart/back-end/assets/svg/pet.svg
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\fastkart\back-end\assets\svg\pet.svg
+Content Type: image/svg+xml
+
+Uri: https://themes.pixelstrap.com/fastkart/back-end/assets/svg/vegetable.svg
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\fastkart\back-end\assets\svg\vegetable.svg
+Content Type: image/svg+xml
+
+Uri: https://themes.pixelstrap.com/fastkart/back-end/attributes.html
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\fastkart\back-end\attributes.html
+Content Type: text/html
+
+Uri: https://themes.pixelstrap.com/fastkart/back-end/category.html
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\fastkart\back-end\category.html
+Content Type: text/html
+
+Uri: https://themes.pixelstrap.com/fastkart/back-end/coupon-list.html
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\fastkart\back-end\coupon-list.html
+Content Type: text/html
+
+Uri: https://themes.pixelstrap.com/fastkart/back-end/create-coupon.html
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\fastkart\back-end\create-coupon.html
+Content Type: text/html
+
+Uri: https://themes.pixelstrap.com/fastkart/back-end/create-role.html
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\fastkart\back-end\create-role.html
+Content Type: text/html
+
+Uri: https://themes.pixelstrap.com/fastkart/back-end/currency-rates.html
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\fastkart\back-end\currency-rates.html
+Content Type: text/html
+
+Uri: https://themes.pixelstrap.com/fastkart/back-end/index.html
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\fastkart\back-end\index.html
+Content Type: text/html
+
+Uri: https://themes.pixelstrap.com/fastkart/back-end/list-page.html
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\fastkart\back-end\list-page.html
+Content Type: text/html
+
+Uri: https://themes.pixelstrap.com/fastkart/back-end/media.html
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\fastkart\back-end\media.html
+Content Type: text/html
+
+Uri: https://themes.pixelstrap.com/fastkart/back-end/order-detail.html
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\fastkart\back-end\order-detail.html
+Content Type: text/html
+
+Uri: https://themes.pixelstrap.com/fastkart/back-end/order-list.html
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\fastkart\back-end\order-list.html
+Content Type: text/html
+
+Uri: https://themes.pixelstrap.com/fastkart/back-end/order-tracking.html
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\fastkart\back-end\order-tracking.html
+Content Type: text/html
+
+Uri: https://themes.pixelstrap.com/fastkart/back-end/product-review.html
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\fastkart\back-end\product-review.html
+Content Type: text/html
+
+Uri: https://themes.pixelstrap.com/fastkart/back-end/products.html
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\fastkart\back-end\products.html
+Content Type: text/html
+
+Uri: https://themes.pixelstrap.com/fastkart/back-end/profile-setting.html
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\fastkart\back-end\profile-setting.html
+Content Type: text/html
+
+Uri: https://themes.pixelstrap.com/fastkart/back-end/reports.html
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\fastkart\back-end\reports.html
+Content Type: text/html
+
+Uri: https://themes.pixelstrap.com/fastkart/back-end/role.html
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\fastkart\back-end\role.html
+Content Type: text/html
+
+Uri: https://themes.pixelstrap.com/fastkart/back-end/support-ticket.html
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\fastkart\back-end\support-ticket.html
+Content Type: text/html
+
+Uri: https://themes.pixelstrap.com/fastkart/back-end/taxes.html
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\fastkart\back-end\taxes.html
+Content Type: text/html
+
+Uri: https://themes.pixelstrap.com/fastkart/back-end/translation.html
+File Name: C:\Users\nagas\Downloads\themes.pixelstrap.com\fastkart\back-end\translation.html
+Content Type: text/html
+
